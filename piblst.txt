@@ -1,0 +1,91 @@
+# ========================================
+# Roku Gold Blocklist (Safe Edition)
+# Ads + Tracking only
+# 2026-01
+# ========================================
+
+# Advertising
+ads.roku.com
+i.ads.roku.com
+p.ads.roku.com
+ravm.tv
+display.ravm.tv
+raps.ravm.tv
+raps-perf.ravm.tv
+rxr.ravm.tv
+
+# Tracking / Analytics
+track.sr.roku.com
+traces.sr.roku.com
+customer-feedbacks.web.roku.com
+amoeba-plus.web.roku.com
+
+# Telemetry / Logs (safe subset)
+digdug.logs.roku.com
+digdug-g2.logs.roku.com
+scribe.logs.roku.com
+mobile.logs.roku.com
+
+# ========================================
+# Windows 10 Telemetry (safe Pi-hole layer)
+# ========================================
+vortex.data.microsoft.com
+telemetry.microsoft.com
+watson.telemetry.microsoft.com
+settings-win.data.microsoft.com
+sqm.telemetry.microsoft.com
+diagnostics.office.com
+feedback.search.microsoft.com
+v10.events.data.microsoft.com
+
+# Bing / Ads / Tracking
+ads.microsoft.com
+ads.msn.com
+ads.bing.com
+bat.bing.com
+c.bing.com
+
+# Application Insights (reine Telemetrie)
+dc.applicationinsights.azure.com
+live.applicationinsights.azure.com
+applicationinsights.azure.com
+
+# Office telemetry
+fp.measure.office.com
+upload.fp.measure.office.com
+ecs.office.com
+config.office.com
+officeclient.microsoft.com
+
+# Microsoft consumer telemetry (optional)
+browser.events.data.microsoft.com
+self.events.data.microsoft.com
+
+# Defender Cloud Telemetry (safe)
+wdcp.microsoft.com
+wdcpalt.microsoft.com
+
+# Skype leftovers / telemetry (safe)
+telemetry.skype.com
+pipe.skype.com
+client-s.gateway.messenger.live.com
+s.gateway.messenger.live.com
+
+# ========================================
+# Apple Telemetrie / Analytics / Ads
+# Stabil & Pi-hole friendly
+# ========================================
+
+metrics.apple.com
+reports.apple.com
+feedbackws.apple.com
+crashreport.apple.com
+api.smoot.apple.com
+
+ads.apple.com
+iadsdk.apple.com
+
+# Apple Connectivity / captive checks (optional, reduziert "SPECIAL_DOMAIN")
+captive.apple.com
+gsp1.apple.com
+

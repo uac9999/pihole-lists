@@ -1,0 +1,25 @@
+# ========================================
+# Whitelist – Systemkritische Dienste
+# ========================================
+
+# Microsoft Defender / Windows
+definitionupdates.microsoft.com
+mp.microsoft.com
+wdcp.microsoft.com
+
+# Roku UI / Assets
+wwwimg.roku.com
+image.roku.com
+images.roku.com
+
+# Apple Zertifikate / Updates (wichtig!)
+ocsp.apple.com
+gs.apple.com
+updates.cdn-apple.com
+swcdn.apple.com
+swdownload.apple.com
+
+# Apple / iCloud Core
+setup.icloud.com
+api.apple-cloudkit.com
+ckdatabase.apple.com
