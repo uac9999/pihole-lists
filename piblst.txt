@@ -1,7 +1,7 @@
 # ========================================
 # Roku Gold Blocklist (Safe Edition)
 # Ads + Tracking only
-# 2026-02
+# 2026-02.09
 # ========================================
 
 # Advertising
