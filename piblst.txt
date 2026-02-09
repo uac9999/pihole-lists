@@ -1,7 +1,7 @@
 # ========================================
 # Roku Gold Blocklist (Safe Edition)
 # Ads + Tracking only
-# 2026-02.09
+# 2026-02.08
 # ========================================
 
 # Advertising
@@ -25,6 +25,13 @@ digdug.logs.roku.com
 digdug-g2.logs.roku.com
 scribe.logs.roku.com
 mobile.logs.roku.com
+
+# ========================================
+# WD-TV Firmware Ghost-Links
+# ========================================
+
+download.wdc.com
+support.wdc.com
 
 # ========================================
 # Windows 10 Telemetry (safe Pi-hole layer)
