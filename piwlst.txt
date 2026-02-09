@@ -12,7 +12,7 @@ wwwimg.roku.com
 image.roku.com
 images.roku.com
 
-# Apple Zertifikate / Updates (wichtig!)
+# Apple Zertifikate / Updates
 ocsp.apple.com
 gs.apple.com
 updates.cdn-apple.com
