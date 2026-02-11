@@ -1,6 +1,5 @@
 # ========================================
-# Whitelist – Systemkritische Dienste
-# 2026-02.09
+# Whitelist – Systemkritische Dienste (Optimiert)
 # ========================================
 
 # Microsoft Defender / Windows
@@ -13,14 +12,22 @@ wwwimg.roku.com
 image.roku.com
 images.roku.com
 
-# Apple Zertifikate / Updates
+# Apple Zertifikate / Updates (ESSENZIELL für iOS 26.x)
 ocsp.apple.com
 gs.apple.com
 updates.cdn-apple.com
+updates-http.cdn-apple.com
 swcdn.apple.com
+swdist.apple.com
 swdownload.apple.com
+mesu.apple.com
+appldnld.apple.com
+xp.apple.com
+gdmf.apple.com
 
 # Apple / iCloud Core
 setup.icloud.com
+p01-setup.icloud.com
 api.apple-cloudkit.com
 ckdatabase.apple.com
+icloud.com
