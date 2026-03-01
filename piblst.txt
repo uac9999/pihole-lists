@@ -21,6 +21,7 @@ watson.telemetry.microsoft.com
 v10.events.data.microsoft.com
 ads.microsoft.com
 ads.bing.com
+ecs.office.com
 
 # Apple Telemetrie / Ads (NUR echte Tracker)
 metrics.apple.com
