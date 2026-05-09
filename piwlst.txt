@@ -31,3 +31,6 @@ p01-setup.icloud.com
 api.apple-cloudkit.com
 ckdatabase.apple.com
 icloud.com
+
+# X / Twitter
+t.co
