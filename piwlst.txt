@@ -34,3 +34,9 @@ icloud.com
 
 # X / Twitter
 t.co
+
+# URL-Shortener
+bitly.com
+kurzelinks.de
+kurz-link.de
+t1p.de
