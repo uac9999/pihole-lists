@@ -2,6 +2,8 @@
 # Whitelist – Systemkritische Dienste (Optimiert)
 # ========================================
 
+# URL-Präsenz in Pi-Hole prüfen: "sudo pihole -q wallpapers.com"
+
 # Microsoft Defender / Windows
 definitionupdates.microsoft.com
 mp.microsoft.com
@@ -40,3 +42,6 @@ bitly.com
 kurzelinks.de
 kurz-link.de
 t1p.de
+
+# Geprüfte Webseiten (aktualisiert am 13.Mai 2026)
+wallpapers.com

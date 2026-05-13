@@ -2,6 +2,8 @@
 # Blacklist (Optimiert & Safe)
 # ========================================
 
+# URL-Präsenz in Pi-Hole prüfen: "sudo pihole -q wallpapers.com"
+
 # Roku Ads & Tracking (Bleibt wie gehabt)
 ads.roku.com
 i.ads.roku.com
