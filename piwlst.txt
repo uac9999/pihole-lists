@@ -45,3 +45,6 @@ t1p.de
 
 # Geprüfte Webseiten (aktualisiert am 13.Mai 2026)
 wallpapers.com
+github-releases.githubusercontent.com
+fonts.googleapis.com
+
