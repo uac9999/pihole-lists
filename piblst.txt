@@ -32,6 +32,9 @@ crashreport.apple.com
 ads.apple.com
 iadsdk.apple.com
 
+# MDCC gesperrt für die Fritzbox 6660
+reg2.voice.mdcc-net.de
+
 # GESTRICHEN (Diese verursachen oft den Update-Hänger):
 # gsp1.apple.com -> Entfällt
 # captive.apple.com -> Entfällt
