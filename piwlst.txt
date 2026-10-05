@@ -43,6 +43,29 @@ kurzelinks.de
 kurz-link.de
 t1p.de
 
+# Google / Core Services & Maps
+# Suche & Hauptdomains
+google.com
+www.google.com
+google.de
+www.google.de
+# Maps, Kacheln & Routing
+maps.google.com
+maps.gstatic.com
+khms.google.com
+khms0.google.com
+khms1.google.com
+cbk0.google.com
+# Statische Ressourcen, Fonts & APIs
+gstatic.com
+www.gstatic.com
+apis.google.com
+ajax.googleapis.com
+# Android / Play Store / System-Services
+android.clients.google.com
+play.googleapis.com
+connectivitycheck.gstatic.com
+
 # Geprüfte Webseiten (aktualisiert am 13.Mai 2026)
 wallpapers.com
 github-releases.githubusercontent.com
