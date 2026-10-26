@@ -66,8 +66,10 @@ android.clients.google.com
 play.googleapis.com
 connectivitycheck.gstatic.com
 
-# Geprüfte Webseiten (aktualisiert am 13.Mai 2026)
+# Geprüfte Webseiten (aktualisiert am 26.10.2026)
 wallpapers.com
 github-releases.githubusercontent.com
 fonts.googleapis.com
+order-control.com
+
 
